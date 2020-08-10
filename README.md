@@ -1,7 +1,7 @@
 ### Hi there, I'm Jun Xiong 👋
 
 ## I'm a Student and a Developer
-- 🔭 I’m currently studying in NUS!
+- 🔭 I’m currently studying in NUS (Computer Science)!
 - 🌱 I’m currently learning Web Development!
 - 🥅 2020 Goals: Improve my coding!
 
