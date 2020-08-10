@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="Jun Xiong's Github Stats" src="https://github-readme-stats.ong6.vercel.app/api?username=ong6&show_icons=true&hide_border=true" />
+<img align="left" alt="Jun Xiong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ong6&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://instagram.com/ojunx_/
