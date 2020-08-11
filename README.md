@@ -17,7 +17,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][temp]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][temp]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][temp]
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/19247856/89883906-63735b00-dbfb-11ea-9718-e1db02c8aadf.jpg" />][temp]
+[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/19247856/89884266-e0063980-dbfb-11ea-8807-592ca9149cfb.png" />][temp]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][temp]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][temp]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][temp]
@@ -26,7 +26,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][temp]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][temp]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][temp]
-[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/19247856/89883905-62dac480-dbfb-11ea-9600-3a538ec27f58.png" />][temp]
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/19247856/89884341-fdd39e80-dbfb-11ea-9fda-7f977ce92a6e.png" />][temp]
 
 <br />
 <br />
