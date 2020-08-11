@@ -37,5 +37,5 @@
 
 
 [instagram]: https://instagram.com/ojunx_/
-[linkedin]: https://www.linkedin.com/in/ong-j-2a06aa194/
+[linkedin]: www.linkedin.com/in/junx6
 [temp]: https://github.com/ong6/ong6
