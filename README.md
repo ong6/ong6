@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer
 - 🔭 I’m currently studying in NUS (Computer Science)!
 - 🌱 I’m currently learning Web Development!
-- 🥅 2020 Goals: Improve my coding!
+- 🥅 2021 Goals: Improve my coding!
 
 ### Connect with me:
 
