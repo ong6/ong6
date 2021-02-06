@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer
 - 🔭 I’m currently studying in NUS (Computer Science)!
-- 🌱 I’m currently learning Web Development!
+- 🌱 I’m currently learning ML and BlockChain!
 - 🥅 2021 Goals: Improve my coding!
 
 ### Connect with me:
