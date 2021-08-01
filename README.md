@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning ML and BlockChain!
 - 🥅 2021 Goals: Improve my coding!
 
+View my portfolio [here](https://ong6.github.io/portfolio/#/)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,7 +35,7 @@
 
 ### My Latest Work: 
 
-CS2030 Unix Guide: https://ong6.github.io/Unix-Guide/
+NUS Connect: https://nus-connect.vercel.app/
 
 <br />
 
