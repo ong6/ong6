@@ -1,11 +1,15 @@
-### Hi there, I'm Jun Xiong 👋
+![](https://visitor-badge.glitch.me/badge?page_id=ong6)
+
+### Hi there, I'm Jun Xiong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+
+
 
 ## I'm a Student and a Developer
 - 🔭 I’m currently studying in NUS (Computer Science)!
 - 🌱 I’m currently learning ML and BlockChain!
-- 🥅 2021 Goals: Improve my coding!
-
-View my portfolio [here](www.junxiong.dev)
+- 📈 Trying to improve my frontend skills for 2022!
+- 💬 View my portfolio website [here](www.junxiong.dev)
 
 ### Connect with me:
 
@@ -32,16 +36,11 @@ View my portfolio [here](www.junxiong.dev)
 
 
 <br />
-
-### My Latest Work: 
-
-NUS Connect: https://nus-connect.vercel.app/
-
 <br />
 
----
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ong6&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ong6&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<img align="left" alt="Jun Xiong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ong6&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://instagram.com/ojunx_/
