@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ML and BlockChain!
 - 🥅 2021 Goals: Improve my coding!
 
-View my portfolio [here](https://ong6.github.io/portfolio/#/)
+View my portfolio [here](www.junxiong.dev)
 
 ### Connect with me:
 
