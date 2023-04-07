@@ -8,7 +8,6 @@
 ## I'm a Student and a Developer
 - 🔭 I’m currently studying in NUS (Computer Science)!
 - 🌱 I’m currently learning ML and BlockChain!
-- 📈 Trying to improve my frontend skills for 2022!
 - 💬 View my portfolio website [here](https://www.junxiong.dev)
 
 ### Connect with me:
