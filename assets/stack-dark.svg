@@ -30,7 +30,7 @@
   <path class="arw" d="M422 102 H 454"/>
 
   <rect class="hi"  x="460" y="60" width="200" height="84"/>
-  <text x="560" y="92"  class="t lbl" text-anchor="middle" fill="#2dd4bf">FACT BOUNDARY</text>
+  <text x="560" y="92"  class="t lbl" text-anchor="middle" fill="#2dd4bf">GROUNDPLANE</text>
   <text x="560" y="111" class="t sub" text-anchor="middle">claims resolve, or it raises</text>
   <text x="560" y="128" class="t sub" text-anchor="middle" fill="#2dd4bf">← the part I care about</text>
 

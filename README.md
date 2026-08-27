@@ -14,7 +14,7 @@ and sold it to one of its clients in 2025.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="How I build agent systems: tools and data feed an agent runtime, whose output passes a deterministic fact boundary before reaching an interface." src="assets/stack-light.svg" width="860">
+  <img alt="How I build agent systems: tools and data feed an agent runtime, whose output passes a deterministic ground plane before reaching an interface." src="assets/stack-light.svg" width="860">
 </picture>
 
 [Personal site](https://junxiong.dev) ·
