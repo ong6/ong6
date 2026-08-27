@@ -5,10 +5,7 @@ on:
   # this table publishes whatever is pinned, so stale pins get advertised daily.
   # schedule:
   #   - cron: "17 22 * * *" # 06:17 Singapore time, daily
-  workflow_dispatch:
-  push:
-    branches: [master]
-    paths: [scripts/update-readme.mjs, .github/workflows/update-readme.yml]
+  workflow_dispatch: # manual only until the pins are the current four
 
 permissions:
   contents: write
