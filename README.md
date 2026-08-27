@@ -11,6 +11,12 @@ and seller backends in Go and gRPC across 13+ markets.
 Alongside the day job I ran Compoze, a one-person AI solutions company, on nights and weekends,
 and sold it to one of its clients in 2025.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="How I build agent systems: tools and data feed an agent runtime, whose output passes a deterministic fact boundary before reaching an interface." src="assets/stack-light.svg" width="860">
+</picture>
+
 [Personal site](https://junxiong.dev) ·
 [LinkedIn](https://www.linkedin.com/in/junx6/) ·
 [Email](mailto:junxiongong2@gmail.com)
@@ -39,3 +45,8 @@ an archive of university projects.
 
 Most of my production work is proprietary. The public repositories above show how I structure
 systems, document decisions, and turn ambiguous personal problems into working software.
+
+## Currently building
+
+<!-- CURRENTLY:START -->
+<!-- CURRENTLY:END -->
