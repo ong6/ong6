@@ -71,7 +71,7 @@ const block = [
 	"|---|---|---|",
 	...rows,
 	"",
-	`<sub>This table rewrites itself — a scheduled GitHub Action reads my pinned repositories and their latest commits. Source: [\`scripts/update-readme.mjs\`](https://github.com/${LOGIN}/${LOGIN}/blob/master/scripts/update-readme.mjs).</sub>`,
+	`<sub>Generated from my pinned repositories and their latest commits by a GitHub Action I run when the pins change. Source: [\`scripts/update-readme.mjs\`](https://github.com/${LOGIN}/${LOGIN}/blob/master/scripts/update-readme.mjs).</sub>`,
 	"",
 	END,
 ].join("\n");

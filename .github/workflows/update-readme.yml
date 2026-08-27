@@ -1,11 +1,11 @@
 name: Update README
 
 on:
-  # Re-enable once the pinned repositories are the four current ones —
-  # this table publishes whatever is pinned, so stale pins get advertised daily.
+  # Deliberately manual. This table publishes whatever is pinned, so a daily
+  # schedule would advertise stale pins the moment the pins drift.
   # schedule:
   #   - cron: "17 22 * * *" # 06:17 Singapore time, daily
-  workflow_dispatch: # manual only until the pins are the current four
+  workflow_dispatch: # run by hand after changing pins
 
 permissions:
   contents: write
