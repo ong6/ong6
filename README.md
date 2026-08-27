@@ -3,8 +3,13 @@
 Software Engineer at TikTok building AI infrastructure and backend platforms in Go and TypeScript.
 
 I work on agent runtimes, tool servers, distributed services, data systems, and the interfaces
-engineers use to ship AI features safely. Previously, I founded Compoze, a one-person AI solutions
-company acquired by one of its clients in 2025.
+engineers use to ship AI features safely. I built my team's shared AI platform from zero — an
+A2A + LangGraph runtime, a Go MCP server, and a React chat SDK — now in daily use by operations
+teams across the US, SEA and UK. Before the AI infrastructure role I spent 18 months on promotion
+and seller backends in Go and gRPC across 13+ markets.
+
+Alongside the day job I ran Compoze, a one-person AI solutions company, on nights and weekends,
+and sold it to one of its clients in 2025.
 
 [Personal site](https://junxiong.dev) ·
 [LinkedIn](https://www.linkedin.com/in/junx6/) ·
