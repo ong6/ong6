@@ -49,4 +49,14 @@ systems, document decisions, and turn ambiguous personal problems into working s
 ## Currently building
 
 <!-- CURRENTLY:START -->
+
+| Repository | Language | Last commit |
+|---|---|---|
+| [Unix-Guide](https://github.com/ong6/Unix-Guide) | JavaScript | [Add tmux and ssh](https://github.com/ong6/Unix-Guide/commit/99aa12d222bab281ef35c33959aaccec018fefba) · 68 months ago |
+| [youtube-handsfree](https://github.com/ong6/youtube-handsfree) | JavaScript | [Update README.md](https://github.com/ong6/youtube-handsfree/commit/4e58532ee0fa2543e489db2d40ca5c7388b59bcc) · 66 months ago |
+| [markbind](https://github.com/MarkBind/markbind) | HTML | [v7.2.1](https://github.com/MarkBind/markbind/commit/dab9fc72ed26f007c5db47384fbf163c2360fec2) · today |
+| [squeezy_app](https://github.com/ong6/squeezy_app) | JavaScript | [Update README.md](https://github.com/ong6/squeezy_app/commit/55f8a0fae944d748d9063ef3d93b6982c69bee8f) · 56 months ago |
+
+<sub>This table rewrites itself — a scheduled GitHub Action reads my pinned repositories and their latest commits. Source: [`scripts/update-readme.mjs`](https://github.com/ong6/ong6/blob/master/scripts/update-readme.mjs).</sub>
+
 <!-- CURRENTLY:END -->
