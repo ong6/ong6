@@ -46,20 +46,14 @@ if (body.errors) throw new Error(JSON.stringify(body.errors));
 
 const repos = body.data.user.pinnedItems.nodes.filter((r) => r && r.name !== LOGIN);
 
-const relative = (iso) => {
-	const days = Math.floor((Date.now() - new Date(iso)) / 86400000);
-	if (days <= 0) return "today";
-	if (days === 1) return "yesterday";
-	if (days < 30) return `${days} days ago`;
-	const months = Math.round(days / 30);
-	return months === 1 ? "last month" : `${months} months ago`;
-};
+// Absolute dates: the table is regenerated manually, so relative wording rots between runs.
+const asDate = (iso) => iso.slice(0, 10);
 
 const rows = repos.map((r) => {
 	const commit = r.defaultBranchRef?.target?.history?.nodes?.[0];
 	const lang = r.primaryLanguage?.name ?? "—";
 	const last = commit
-		? `[${commit.messageHeadline}](${commit.url}) · ${relative(commit.committedDate)}`
+		? `[${commit.messageHeadline}](${commit.url}) · ${asDate(commit.committedDate)}`
 		: "—";
 	return `| [${r.name}](${r.url}) | ${lang} | ${last} |`;
 });

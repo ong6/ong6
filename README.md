@@ -52,8 +52,8 @@ systems, document decisions, and turn ambiguous personal problems into working s
 
 | Repository | Language | Last commit |
 |---|---|---|
-| [sg-property-analysis](https://github.com/ong6/sg-property-analysis) | Python | [v3.11: three-score system — Valuation + Livability axes + purpose-wei…](https://github.com/ong6/sg-property-analysis/commit/6628ce1983a85aacd32f22cb396041491de283bc) · 2 months ago |
-| [groundplane](https://github.com/ong6/groundplane) | Python | [Add four relational checks: ordering, aggregates, entities, row integ…](https://github.com/ong6/groundplane/commit/c44ab2e4a08c6ec3bfbb25391845b2cc596f7715) · today |
+| [sg-property-analysis](https://github.com/ong6/sg-property-analysis) | Python | [v3.11: three-score system — Valuation + Livability axes + purpose-wei…](https://github.com/ong6/sg-property-analysis/commit/6628ce1983a85aacd32f22cb396041491de283bc) · 2026-06-15 |
+| [groundplane](https://github.com/ong6/groundplane) | Python | [Adapters: LangGraph nodes and MCP tool results](https://github.com/ong6/groundplane/commit/9e6054af1e973c83d161eaf611b14f124f1f2f12) · 2026-08-27 |
 
 <sub>Generated from my pinned repositories and their latest commits by a GitHub Action I run when the pins change. Source: [`scripts/update-readme.mjs`](https://github.com/ong6/ong6/blob/master/scripts/update-readme.mjs).</sub>
 
