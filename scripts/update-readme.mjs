@@ -1,5 +1,5 @@
 // Rewrites the CURRENTLY block in README.md from the latest commits on my pinned repos.
-// Run by .github/workflows/update-readme.yml on a schedule.
+// Run by .github/workflows/update-readme.yml (manual workflow_dispatch, after pins change).
 
 const LOGIN = "ong6";
 const START = "<!-- CURRENTLY:START -->";
