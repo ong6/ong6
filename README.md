@@ -7,7 +7,7 @@ Most of what I build at work is proprietary. What's here is the personal stuff:
 
 - [groundplane](https://github.com/ong6/groundplane) — fails an agent's output when its prose claims a fact its tools never produced
 - [jobforge](https://github.com/ong6/jobforge) — a Claude Code plugin that keeps a résumé, target roles and interview drills in one corpus
-- [sg-property-analysis](https://github.com/ong6/sg-property-analysis) — scoring Singapore condos from transaction data, because I'm buying one
+- [sg-property-analysis](https://github.com/ong6/sg-property-analysis) — scoring Singapore condos from official transaction data
 - [junxiong-homepage](https://github.com/ong6/junxiong-homepage) — the site below
 
 <picture>
