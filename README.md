@@ -16,10 +16,7 @@ Software engineer in Singapore. I build AI infrastructure at TikTok by day and s
 <code><img height="22" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/HEAD/topics/kubernetes/kubernetes.png"></code>
 <code><img height="22" alt="Docker" src="https://raw.githubusercontent.com/github/explore/HEAD/topics/docker/docker.png"></code>
 
-<p>
-  <a href="https://github.com/ong6"><img height="165" alt="GitHub stats for ong6" src="https://github-readme-stats.vercel.app/api?username=ong6&show_icons=true&hide_border=true&theme=transparent&hide_title=true"></a>
-  <a href="https://github.com/ong6"><img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ong6&layout=compact&hide_border=true&theme=transparent&hide_title=true"></a>
-</p>
+<a href="https://github.com/ong6"><img alt="GitHub contribution streak for ong6" src="https://streak-stats.demolab.com/?user=ong6&hide_border=true&theme=transparent&date_format=j%20M%5B%20Y%5D"></a>
 
 <details>
 <summary>How I build agent systems</summary>
