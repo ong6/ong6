@@ -1,0 +1,14 @@
+{
+  "name": "ong6-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "stack": "tsx scripts/build-stack.tsx"
+  },
+  "devDependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tsx": "^4.23.13",
+    "uipack": "github:ong6/uipack#268b31d"
+  }
+}
